@@ -3,6 +3,7 @@ eval "$(mise activate zsh)"
 
 export PATH="/opt/homebrew/bin:$PATH"
 export PATH="/opt/homebrew/opt/curl/bin:$PATH"
+export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
 
 # Set default editor
 export EDITOR=nvim
